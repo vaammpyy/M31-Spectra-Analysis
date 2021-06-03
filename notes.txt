@@ -1,0 +1,9 @@
+project tracker
+1) do the best fit (done)
+2) make a correct copy of the csv file 
+3) use thermal doppler to get the  [do this for every line]
+   * velocity distribution gas
+   * temperature of the gas 
+4) take another data set and investigate the "unkown line"
+5) make all the above deduction with that data set too
+6) compare the two
